@@ -3,7 +3,7 @@ from io import BytesIO
 # Этот класс поможет нам сделать картинку из потока байт
 from wwwwwww import get_params
 import requests
-import pygamei
+import pygame
 
 # Пусть наше приложение предполагает запуск:
 # python search.py Москва, ул. Ак. Королева, 12
